@@ -22,7 +22,7 @@ READ ME
 
 ## PRINCIPAIS FUNCIONALIDADES
 
-  - Upload e publicação de vídeos. <br>
+  - Upload e publicação de vídeos.
   - Reprodução de vídeos com player integrado.
   - Busca de vídeos por título, canal ou categoria.
   - Curtir, comentar e se inscrever em canais.
