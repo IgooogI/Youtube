@@ -14,13 +14,15 @@ READ ME
 ## PÚBLICO ALVO
 
   Criadores de conteúdo: pessoas ou empresas que desejam publicar vídeos e alcançar uma audiência.
+  
   Espectadores: usuários que buscam assistir, pesquisar e descobrir vídeos sobre os mais variados temas.
+  
   Anunciantes: marcas interessadas em divulgar produtos e serviços através de conteúdo em vídeo.
 
 
 ## PRINCIPAIS FUNCIONALIDADES
 
-  - Upload e publicação de vídeos.
+  - Upload e publicação de vídeos. <br>
   - Reprodução de vídeos com player integrado.
   - Busca de vídeos por título, canal ou categoria.
   - Curtir, comentar e se inscrever em canais.
@@ -37,11 +39,18 @@ READ ME
 ## TECNOLOGIAS UTILIZADAS
 
   HTML, CSS e JavaScript — usados na interface do site e em partes da experiência do usuário.
+  
   Python, C++, Java e Go — linguagens utilizadas em diferentes sistemas e serviços do YouTube.
+  
   Protocolos de streaming de vídeo — permitem transmitir vídeos pela internet de forma adaptativa, ajustando a qualidade conforme a conexão.
+  
   Google Cloud e data centers do Google — fornecem a enorme infraestrutura necessária para armazenar e distribuir vídeos.
+  
   CDNs (redes de distribuição de conteúdo) — ajudam a entregar vídeos rapidamente para usuários em diferentes regiões.
+  
   Inteligência artificial e machine learning — usados para recomendações de vídeos, pesquisa, legendas automáticas, detecção de conteúdo e personalização.
+  
   Bancos de dados e sistemas distribuídos — permitem armazenar e processar enormes quantidades de vídeos, usuários e informações.
+  
 
 Em resumo, o YouTube combina programação, computação em nuvem, streaming, bancos de dados, redes e inteligência artificial para funcionar.
