@@ -49,8 +49,7 @@ READ ME
   CDNs (redes de distribuição de conteúdo) — ajudam a entregar vídeos rapidamente para usuários em diferentes regiões.
   
   Inteligência artificial e machine learning — usados para recomendações de vídeos, pesquisa, legendas automáticas, detecção de conteúdo e personalização.
-  
-  Bancos de dados e sistemas distribuídos — permitem armazenar e processar enormes quantidades de vídeos, usuários e informações.
+
   
 
 Em resumo, o YouTube combina programação, computação em nuvem, streaming, bancos de dados, redes e inteligência artificial para funcionar.
