@@ -42,11 +42,9 @@ READ ME
   
   Python, C++, Java e Go — linguagens utilizadas em diferentes sistemas e serviços do YouTube.
   
-  Protocolos de streaming de vídeo — permitem transmitir vídeos pela internet de forma adaptativa, ajustando a qualidade conforme a conexão.
+  Protocolos de streaming de vídeo e CDNs (redes de distribuição de conteúdo) — permitem transmitir vídeos pela internet de forma adaptativa e rápida, ajustando a qualidade conforme a conexão.
   
   Google Cloud e data centers do Google — fornecem a enorme infraestrutura necessária para armazenar e distribuir vídeos.
-  
-  CDNs (redes de distribuição de conteúdo) — ajudam a entregar vídeos rapidamente para usuários em diferentes regiões.
   
   Inteligência artificial e machine learning — usados para recomendações de vídeos, pesquisa, legendas automáticas, detecção de conteúdo e personalização.
 
