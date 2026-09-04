@@ -1,6 +1,6 @@
 # Youtube
 
-## DESCRIÇÂO
+descrição da plataforma
 
  O YouTube é uma plataforma de vídeos onde você pode assistir, publicar, compartilhar e descobrir conteúdos sobre praticamente qualquer assunto, como música, entretenimento, notícias, tutoriais, jogos, podcasts e muito mais.
   Ele também oferece recursos como Shorts, transmissões ao vivo, comentários, inscrições em canais e recomendações personalizadas.
