@@ -48,5 +48,3 @@
   Inteligência artificial e machine learning — usados para recomendações de vídeos, pesquisa, legendas automáticas, detecção de conteúdo e personalização.
 
   
-
-Em resumo, o YouTube combina programação, computação em nuvem, streaming, bancos de dados, redes e inteligência artificial para funcionar.
